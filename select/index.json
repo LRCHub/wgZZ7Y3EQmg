@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "4/10",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-02-14T14:34:03.959041Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "good 4 u",
+      "artist": "Olivia Rodrigo",
+      "has_synced": true,
+      "path": "select/01_good_4_u_Olivia_Rodrigo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Made 4",
+      "artist": "Vincent Mason",
+      "has_synced": true,
+      "path": "select/02_Made_4_Vincent_Mason.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thanx 4 Nothin'",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/03_Thanx_4_Nothin'_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "4 Walls",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/04_4_Walls_f(x).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Robot With Human Hair, Pt. 4 (Tree City Sessions)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/05_The_Robot_With_Human_Hair,_Pt._4_(Tree_City_Sessions)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Robot With Human Hair Pt. 4 (Tree City Sessions)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/06_Robot_With_Human_Hair_Pt._4_(Tree_City_Sessions)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Robot With Human Hair Pt. 4",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/07_The_Robot_With_Human_Hair_Pt._4_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Robot with Human Hair, Pt. 4",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/08_The_Robot_with_Human_Hair,_Pt._4_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "17+4",
+      "artist": "Fünf Sterne Deluxe",
+      "has_synced": false,
+      "path": "select/09_17+4_Fünf_Sterne_Deluxe.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "4 My People",
+      "artist": "Missy Elliott feat. Eve",
+      "has_synced": true,
+      "path": "select/10_4_My_People_Missy_Elliott_feat._Eve.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "4 My People (Ft. Eve)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/11_4_My_People_(Ft._Eve)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "4,3,2,1 (feat. Cannibus, DMX, Method Man & Redman)",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/12_4,3,2,1_(feat._Cannibus,_DMX,_Method_Man_&_Redman)_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "4, 3, 2, 1 (feat. Redman and Method Man, Cannibus & DMX)",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/13_4,_3,_2,_1_(feat._Redman_and_Method_Man,_Cannibus_&_DMX)_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Barz 4 Dayz",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/14_Barz_4_Dayz_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Barz 4 Dayz (prod. Soul Theory",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/15_Barz_4_Dayz_(prod._Soul_Theory_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mouthing Off (Feat. 4-Ize)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/16_Mouthing_Off_(Feat._4-Ize)_Ludacris.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "451",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_451_ヨルシカ.txt"
+    }
+  ]
+}
